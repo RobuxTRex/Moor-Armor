@@ -1,0 +1,33 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "minecraft:bedrock"
+    },
+    {
+      "item": "minecraft:bedrock"
+    },
+    {
+      "item": "minecraft:bedrock"
+    },
+    {
+      "item": "minecraft:bedrock"
+    },
+    {
+      "item": "minecraft:bedrock"
+    },
+    {
+      "item": "minecraft:bedrock"
+    },
+    {
+      "item": "minecraft:bedrock"
+    },
+    {
+      "item": "minecraft:bedrock"
+    }
+  ],
+  "result": {
+    "item": "moor_armor_fabric:bedrock_armor_chestplate",
+    "count": 1
+  }
+}

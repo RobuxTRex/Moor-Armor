@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "minecraft:azalea"
+    },
+    {
+      "item": "minecraft:azalea"
+    },
+    {
+      "item": "minecraft:azalea"
+    },
+    {
+      "item": "minecraft:azalea"
+    },
+    {
+      "item": "minecraft:azalea"
+    }
+  ],
+  "result": {
+    "item": "moor_armor_fabric:azalea_armor_helmet",
+    "count": 1
+  }
+}

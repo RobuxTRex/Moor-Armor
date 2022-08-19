@@ -1,0 +1,31 @@
+{
+  "schemaVersion": 1,
+  "id": "moor_armor_fabric",
+  "version": "1.0.1",
+  "name": "Moor Armor (Fabric)",
+  "description": "Adds some basic, but amazing armor to the Minecraft experience with fabric!",
+  "authors": [
+    "RobuxTRex"
+  ],
+  "contact": {
+    "homepage": "https://www.robuxtrex.co.uk/moor-armor-fabric",
+    "sources": ""
+  },
+  "license": "All Rights Reserved",
+  "icon": "assets/moor_armor_fabric/icon.png",
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "net.mcreator.moorarmorfabric.MoorArmorFabricMod"
+    ],
+    "client": [
+      "net.mcreator.moorarmorfabric.ClientInit"
+    ]
+  },
+  "depends": {
+    "fabricloader": ">=0.14.8",
+    "fabric": "*",
+    "minecraft": "~1.19",
+    "java": ">=17"
+  }
+}

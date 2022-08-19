@@ -1,0 +1,33 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "tag": "minecraft:anvil"
+    },
+    {
+      "tag": "minecraft:anvil"
+    },
+    {
+      "tag": "minecraft:anvil"
+    },
+    {
+      "tag": "minecraft:anvil"
+    },
+    {
+      "tag": "minecraft:anvil"
+    },
+    {
+      "tag": "minecraft:anvil"
+    },
+    {
+      "tag": "minecraft:anvil"
+    },
+    {
+      "tag": "minecraft:anvil"
+    }
+  ],
+  "result": {
+    "item": "moor_armor_fabric:anvil_armor_chestplate",
+    "count": 1
+  }
+}

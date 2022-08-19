@@ -1,0 +1,412 @@
+{
+  "mod_elements": [
+    {
+      "name": "MoorArmor",
+      "type": "tab",
+      "sortid": 1,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "moor_armor"
+    },
+    {
+      "name": "EmeraldArnmor",
+      "type": "armor",
+      "sortid": 2,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "emerald_arnmor",
+      "metadata": {
+        "eh": true,
+        "el": true,
+        "eb": true,
+        "ec": true
+      }
+    },
+    {
+      "name": "BedrockArmor",
+      "type": "armor",
+      "sortid": 3,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "bedrock_armor",
+      "metadata": {
+        "eh": true,
+        "el": true,
+        "eb": true,
+        "ec": true
+      }
+    },
+    {
+      "name": "BarrierArmor",
+      "type": "armor",
+      "sortid": 4,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "barrier_armor",
+      "metadata": {
+        "eh": true,
+        "el": true,
+        "eb": true,
+        "ec": true
+      }
+    },
+    {
+      "name": "LapisArmor",
+      "type": "armor",
+      "sortid": 5,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "lapis_armor",
+      "metadata": {
+        "eh": true,
+        "el": true,
+        "eb": true,
+        "ec": true
+      }
+    },
+    {
+      "name": "EmeraldLeggings",
+      "type": "recipe",
+      "sortid": 6,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "emerald_leggings"
+    },
+    {
+      "name": "EmeraldHelmet",
+      "type": "recipe",
+      "sortid": 7,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "emerald_helmet"
+    },
+    {
+      "name": "EmeraldBoots",
+      "type": "recipe",
+      "sortid": 8,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "emerald_boots"
+    },
+    {
+      "name": "EmeraldChestplate",
+      "type": "recipe",
+      "sortid": 9,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "emerald_chestplate"
+    },
+    {
+      "name": "BedrockLeggings",
+      "type": "recipe",
+      "sortid": 10,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "bedrock_leggings"
+    },
+    {
+      "name": "BedrockHelmet",
+      "type": "recipe",
+      "sortid": 11,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "bedrock_helmet"
+    },
+    {
+      "name": "BedrockBoots",
+      "type": "recipe",
+      "sortid": 12,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "bedrock_boots"
+    },
+    {
+      "name": "BedrockChestplate",
+      "type": "recipe",
+      "sortid": 13,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "bedrock_chestplate"
+    },
+    {
+      "name": "BarrierLeggings",
+      "type": "recipe",
+      "sortid": 14,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "barrier_leggings"
+    },
+    {
+      "name": "BarrierHelmet",
+      "type": "recipe",
+      "sortid": 15,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "barrier_helmet"
+    },
+    {
+      "name": "BarrierBoots",
+      "type": "recipe",
+      "sortid": 16,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "barrier_boots"
+    },
+    {
+      "name": "BarrierChestplate",
+      "type": "recipe",
+      "sortid": 17,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "barrier_chestplate"
+    },
+    {
+      "name": "LapisLeggings",
+      "type": "recipe",
+      "sortid": 18,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "lapis_leggings"
+    },
+    {
+      "name": "LapisHelmet",
+      "type": "recipe",
+      "sortid": 19,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "lapis_helmet"
+    },
+    {
+      "name": "LapisBoots",
+      "type": "recipe",
+      "sortid": 20,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "lapis_boots"
+    },
+    {
+      "name": "LapisChestplate",
+      "type": "recipe",
+      "sortid": 21,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "lapis_chestplate"
+    },
+    {
+      "name": "RedstoneArmor",
+      "type": "armor",
+      "sortid": 22,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "redstone_armor",
+      "metadata": {
+        "eh": true,
+        "el": true,
+        "eb": true,
+        "ec": true
+      }
+    },
+    {
+      "name": "RedstoneLeggings",
+      "type": "recipe",
+      "sortid": 24,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "redstone_leggings"
+    },
+    {
+      "name": "RedstoneHelmet",
+      "type": "recipe",
+      "sortid": 25,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "redstone_helmet"
+    },
+    {
+      "name": "RedstoneBoots",
+      "type": "recipe",
+      "sortid": 26,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "redstone_boots"
+    },
+    {
+      "name": "RedstoneChestplate",
+      "type": "recipe",
+      "sortid": 27,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "redstone_chestplate"
+    },
+    {
+      "name": "AzaleaArmor",
+      "type": "armor",
+      "sortid": 28,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "azalea_armor",
+      "metadata": {
+        "eh": true,
+        "el": true,
+        "eb": true,
+        "ec": true
+      }
+    },
+    {
+      "name": "AzaleaLeggings",
+      "type": "recipe",
+      "sortid": 29,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "azalea_leggings"
+    },
+    {
+      "name": "AzaleaHelmet",
+      "type": "recipe",
+      "sortid": 30,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "azalea_helmet"
+    },
+    {
+      "name": "AzaleaBoots",
+      "type": "recipe",
+      "sortid": 31,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "azalea_boots"
+    },
+    {
+      "name": "AzaleaChestplate",
+      "type": "recipe",
+      "sortid": 32,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "azalea_chestplate"
+    },
+    {
+      "name": "AnvilArmor",
+      "type": "armor",
+      "sortid": 33,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "anvil_armor",
+      "metadata": {
+        "eh": true,
+        "el": true,
+        "eb": true,
+        "ec": true
+      }
+    },
+    {
+      "name": "AnvilLeggings",
+      "type": "recipe",
+      "sortid": 34,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "anvil_leggings"
+    },
+    {
+      "name": "AnvilHelmet",
+      "type": "recipe",
+      "sortid": 35,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "anvil_helmet"
+    },
+    {
+      "name": "AnvilBoots",
+      "type": "recipe",
+      "sortid": 36,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "anvil_boots"
+    },
+    {
+      "name": "AnvilChestplate",
+      "type": "recipe",
+      "sortid": 37,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "anvil_chestplate"
+    },
+    {
+      "name": "AncientDebrisArmor",
+      "type": "armor",
+      "sortid": 38,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "ancient_debris_armor",
+      "metadata": {
+        "eh": true,
+        "el": true,
+        "eb": true,
+        "ec": true
+      }
+    }
+  ],
+  "variable_elements": [],
+  "sound_elements": [],
+  "language_map": {
+    "en_us": {
+      "item.moor_armor_fabric.azalea_armor_boots": "Azalea Boots",
+      "item.moor_armor_fabric.ancient_debris_armor_helmet": "Debris Helmet",
+      "item.moor_armor_fabric.azalea_armor_helmet": "Azalea Helmet",
+      "item.moor_armor_fabric.anvil_armor_helmet": "Anvil Helmet",
+      "item.moor_armor_fabric.bedrock_armor_boots": "Bedrock Boots",
+      "item.moor_armor_fabric.barrier_armor_boots": "Barrier Boots",
+      "item.moor_armor_fabric.redstone_armor_chestplate": "Redstone Chestplate",
+      "item.moor_armor_fabric.bedrock_armor_leggings": "Bedrock Leggings",
+      "item.moor_armor_fabric.barrier_armor_chestplate": "Barrier Chestplate",
+      "item.moor_armor_fabric.ancient_debris_armor_boots": "Debris Boots",
+      "item.moor_armor_fabric.azalea_armor_leggings": "Azalea Leggings",
+      "item.moor_armor_fabric.anvil_armor_chestplate": "Anvil Chestplate",
+      "item.moor_armor_fabric.emerald_arnmor_boots": "Emerald Boots",
+      "item.moor_armor_fabric.bedrock_armor_helmet": "Bedrock Helmet",
+      "item.moor_armor_fabric.lapis_armor_chestplate": "Lapis Chestplate",
+      "item.moor_armor_fabric.redstone_armor_leggings": "Redstone Leggings",
+      "itemGroup.moor_armor_fabric.moor_armor": "Moor Armor",
+      "item.moor_armor_fabric.redstone_armor_boots": "Redstone Boots",
+      "item.moor_armor_fabric.lapis_armor_boots": "Lapis Boots",
+      "item.moor_armor_fabric.barrier_armor_leggings": "Barrier Leggings",
+      "item.moor_armor_fabric.emerald_arnmor_chestplate": "Emerald Chestplate",
+      "item.moor_armor_fabric.emerald_arnmor_leggings": "Emerald Leggings",
+      "item.moor_armor_fabric.emerald_arnmor_helmet": "Emerald Helmet",
+      "item.moor_armor_fabric.lapis_armor_leggings": "Lapis Leggings",
+      "item.moor_armor_fabric.azalea_armor_chestplate": "Azalea Chestplate",
+      "item.moor_armor_fabric.bedrock_armor_chestplate": "Bedrock Chestplate",
+      "item.moor_armor_fabric.redstone_armor_helmet": "Redstone Helmet",
+      "item.moor_armor_fabric.anvil_armor_boots": "Anvil Boots",
+      "item.moor_armor_fabric.ancient_debris_armor_chestplate": "Debris Chestplate",
+      "item.moor_armor_fabric.barrier_armor_helmet": "Barrier Helmet",
+      "item.moor_armor_fabric.anvil_armor_leggings": "Anvil Leggings",
+      "item.moor_armor_fabric.lapis_armor_helmet": "Lapis Helmet",
+      "item.moor_armor_fabric.ancient_debris_armor_leggings": "Debris Leggings"
+    }
+  },
+  "foldersRoot": {
+    "name": "~",
+    "children": []
+  },
+  "workspaceSettings": {
+    "modid": "moor_armor_fabric",
+    "modName": "Moor Armor (Fabric)",
+    "version": "1.0.1",
+    "description": "Adds some basic, but amazing armor to the Minecraft experience with fabric!",
+    "author": "RobuxTRex",
+    "websiteURL": "https://www.robuxtrex.co.uk/moor-armor-fabric",
+    "license": "All Rights Reserved",
+    "disableForgeVersionCheck": true,
+    "serverSideOnly": false,
+    "modPicture": "logo",
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "fabric-1.19.1",
+    "credits": "Made with \u003c3 by RobuxTRex from the United Kingdom!",
+    "modElementsPackage": "net.mcreator.moorarmorfabric",
+    "lockBaseModFiles": false
+  },
+  "mcreatorVersion": 202200233511
+}

@@ -1,0 +1,46 @@
+{
+  "_fv": 33,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "recipeRetstackSize": 1,
+    "group": "",
+    "recipeShapeless": true,
+    "recipeSlots": [
+      {
+        "value": "Blocks.BARRIER"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "Blocks.BARRIER"
+      },
+      {
+        "value": "Blocks.BARRIER"
+      },
+      {
+        "value": "Blocks.BARRIER"
+      },
+      {
+        "value": "Blocks.BARRIER"
+      },
+      {
+        "value": "Blocks.BARRIER"
+      },
+      {
+        "value": "Blocks.BARRIER"
+      },
+      {
+        "value": "Blocks.BARRIER"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:BarrierArmor.body"
+    },
+    "name": "barrier_chestplate",
+    "namespace": "mod"
+  }
+}
